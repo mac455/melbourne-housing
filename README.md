@@ -14,9 +14,9 @@ The dataset used in this project is the Melbourne Housing Snapshot dataset hoste
 Link : (https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 
 ## Installation
-To run the code in this repository, you'll need to have the following tools and libraries installed:
+To run the code in this repository, you'll need to have the following tools installed:
 
-Jupyter Notebook
+Jupyter Notebook (Anaconda)
 Python 3.x
 
 ## Analysis
